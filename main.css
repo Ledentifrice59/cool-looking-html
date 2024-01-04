@@ -7,7 +7,6 @@ body {
     flex-direction: column;
     height: 100vh;
     background: linear-gradient(to right, #000, #000, #002030, #000, #000);
-    /* Adjust the color stops to your liking */
 }
 
 #textContainer {
@@ -41,6 +40,6 @@ body {
 #menu a:hover {
         background-color: #3498db;
         color: #fff;
-        transform: scale(1.1); /* Scale the button slightly on hover */
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Add a subtle box shadow */
+        transform: scale(1.1);
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); 
       }
